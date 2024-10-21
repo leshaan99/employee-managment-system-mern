@@ -43,7 +43,7 @@ const UserForm = props => {
       <Grid item xs={12} sm={6} sx={{display: "flex"}}>
         <Typography 
           component="label" 
-          htmlFor="id"
+          htmlFor="name"
           sx={{ 
             color: '#000000',
             marginRight: '20px',
